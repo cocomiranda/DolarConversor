@@ -1,4 +1,4 @@
 # DolarConversor
 Muestra el valor de la cotizacion del dolar oficial y el dolar paralelo en la Argentina y se puede hacer conversion de divisas.
 
-![Ejemplo de extension](captura3.png)
+![Ejemplo de extension](captura1.png)
