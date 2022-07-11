@@ -11,4 +11,4 @@ Tiene conversor de divisas:
 - ARS / USD parelelo
 y viceversa.
 
-![Ejemplo de extension](captura1.png)
+![Ejemplo de extension](captura.png)
